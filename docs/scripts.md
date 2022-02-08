@@ -4,3 +4,5 @@ Reúne os scripts Python - combinando as bibliotecas pandas e plotly -  para cri
 
 - Acesse o script [`analise_HDB.py`](../SCRIPTS/analise_hdb.py). Com ele são gerados gráficos a partir do csv dos resultados gerados pela pyHDB.
 - Acesse o script [`graph_infos.py`](../SCRIPTS/graph_infos.py). Com ele são gerados gráficos e tabelas a partir do csv com dados gerais da busca gerados pela pyHDB.
+
+[Voltar para a página inicial](https://ericbrasiln.github.io/analise_pyHDB/)
