@@ -19,3 +19,5 @@ Imagens utilizadas no artigo.
 ## Figura 3: Tabela com a variação de valores absolutos e proporcionais de ocorrências nos 10 primeiros acervos. 
 
 ![Figura 3](../IMAGENS/TABELA1_Hemetério%20José%20dos%20Santos_table.png)
+
+[Voltar para a página inicial](https://ericbrasiln.github.io/analise_pyHDB/)
